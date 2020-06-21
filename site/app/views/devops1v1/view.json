@@ -1,0 +1,10 @@
+{
+    "title": "DevOps 1v1",
+    "description": "DevOps 1v1 series mentorship sessions that covers project managemnt, devops/CICD, agile menifesto and cloud strategy",
+    "logoUrl": "/devops1v1/devops-logo.jpg",
+    "tags": ["devops"],
+    "exclude": [
+      ".*-about$",
+      "^lang-.*"
+    ]
+  }
