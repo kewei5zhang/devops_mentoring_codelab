@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-06-27T00:25:15+10:00",
+  "id": "agile101",
+  "duration": 0,
+  "title": "Agile 101",
+  "authors": "Kewei Zhang",
+  "summary": "Agile 101",
+  "source": "agile101.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "devops"
+  ],
+  "url": "agile101"
+}

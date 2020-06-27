@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-06-23T23:58:19+10:00",
+  "id": "mentors",
+  "duration": 0,
+  "title": "Mentor Details",
+  "authors": "Kewei Zhang",
+  "summary": "Mentors",
+  "source": "mentors.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "devops",
+    "mentor"
+  ],
+  "url": "mentors"
+}

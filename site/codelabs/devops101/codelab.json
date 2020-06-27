@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-06-27T12:13:12+10:00",
+  "id": "devops101",
+  "duration": 0,
+  "title": "DevOps 101",
+  "authors": "Kewei Zhang",
+  "summary": "DevOps 101",
+  "source": "devops101.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "devops"
+  ],
+  "url": "devops101"
+}

@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-06-24T23:58:38+10:00",
+  "id": "microservice101",
+  "duration": 0,
+  "title": "MicroService 101",
+  "authors": "Kewei Zhang",
+  "summary": "MicroService 101",
+  "source": "microservices101.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "devops"
+  ],
+  "url": "microservice101"
+}

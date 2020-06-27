@@ -1,7 +1,7 @@
 summary: How to Write a Codelab
 id: how-to-write-a-codelab
 categories: Sample
-tags: devops
+tags: others
 status: Published 
 authors: Zarin
 Feedback Link: https://zarin.io
@@ -60,7 +60,7 @@ Duration: 1
 [Youtube - Halsey Playlists](https://www.youtube.com/user/iamhalsey/playlists)
 
 ### Images
-![alt-text-here](assets/kewei.png)
+![alt-text-here](assets/agile.png)
 
 <!-- ------------------------ -->
 ## Other Stuff

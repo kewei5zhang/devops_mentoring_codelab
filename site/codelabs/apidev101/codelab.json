@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-06-25T00:00:46+10:00",
+  "id": "apidev101",
+  "duration": 0,
+  "title": "API Development101",
+  "authors": "Kewei Zhang",
+  "summary": "API Development 101",
+  "source": "api-development101.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sample"
+  ],
+  "tags": [
+    "devops"
+  ],
+  "url": "apidev101"
+}
