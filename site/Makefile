@@ -27,7 +27,7 @@ build:
 
 ### Run
 run:
-	docker run --rm -p 8000:3000 gcr.io/${GCP_PROJECT_ID}/itmentoring-codelabs:latest
+	docker run --rm -p 443:3000 gcr.io/${GCP_PROJECT_ID}/itmentoring-codelabs:latest
 
 ### Debug
 debug: 
@@ -36,3 +36,4 @@ debug:
 ### Push
 push:
 	docker push gcr.io/${GCP_PROJECT_ID}/itmentoring-codelabs:${SHA_ID}
+	docker push gcr.io/${GCP_PROJECT_ID}/itmentoring-codelabs:latest
