@@ -77,7 +77,7 @@ These capabilities give teams several important benefits:
 ![alt-text-here](assets/gitflow.svg)
 
 #### Infrastructure As Code (IaC)
-Infrastructure as code, also referred to as IaC, is a type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
+Infrastructure as code, also referred to as IaC, is a type of IT setup where in developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
 
 ![alt-text-here](assets/iac.png)
 
@@ -124,7 +124,45 @@ Test automation. In software testing, test automation is the use of software sep
 
 ![alt-text-here](assets/microservice_test_pyramid.png)
 
-#### (Optional) Behaviour Driven Development (BDD) \ Text Driven Development (TDD)
+#### (Advanced) Behaviour Driven Development (BDD) \ Text Driven Development (TDD)
+**What is Test-Driven Development (TDD)?**
+
+Test-Driven Development is a testing methodology or a programming practice implemented from a developer’s perspective. In this technique, a QA engineer starts designing and writing test cases for every small functionality of an application. This technique attempts to answer a simple question – Is the code valid? The main intention of this technique is to modify or write a fresh code only when the test fails. Hence it results in lesser duplication of test scripts. This technique is largely popular in agile development ecosystems. In a TDD approach, automated test scripts are written before functional pieces of code. The TDD methodology involves the following steps:
+
+1. Based on the requirements specified in the documents, a developer writes an automated test case
+2. These tests are executed, and in some cases, they fail as they are developed before the development of an actual feature
+3. The development team then re-factors the code for the test to pass successfully
+
+**Re-factoring refers to the process of modifying the code without changing its main functionality or behavior.**
+![alt-text-here](assets/tdd.png)
+
+**Benefits of Test-Driven Development:**
+- Helps reduce the amount of time required for rework
+- Helps explore bugs or errors very quickly
+- Helps get faster feedback
+- Encourages the development of cleaner and better designs
+- Enhances the productivity of the programmer
+- Allows any team member to start working on the code in the absence of a specific team member. This encourages knowledge sharing and collaboration
+- Gives the programmer confidence to change the large architecture of an application easily
+- Results in the creation of extensive code that is flexible and easy to maintain
+
+**What is Behavioral-Driven Development (BDD)?**
+
+Business-Driven Development (BDD) is a testing approach derived from the Test-Driven Development (TDD) methodology. In BDD, tests are mainly based on systems behavior. This approach defines various ways to develop a feature based on its behavior. In most cases, the Given-When-Then approach is used for writing test cases. Let’s take an example for better understanding:
+
+- **Given** the user has entered valid login credentials
+- **When** a user clicks on the login button
+- **Then** display the successful validation message
+As shown above, the behavior is illustrated in a very simple English language, also known as a shared language. This helps everyone in the team responsible for development to understand the feature behavior.
+
+**Key benefits of Behavioral-Driven Development approach:**
+- Helps reach a wider audience by the usage of non-technical language
+- Focuses on how the system should behave from the customer’s and the developer’s perspective
+- BDD Is a cost-effective technique
+- Reduces efforts needed to verify any post-deployment defects
+
+![alt-text-here](assets/bdd.png)
+
 <!-- ------------------------ -->
 ## Excercise 1
 
@@ -235,7 +273,7 @@ DevOps teams are required to be involved at every stage of the software developm
 2. Discussion: Give one good example and one bad example about the DevOps culture in your current project.
 
 <!-- ------------------------ -->
-## (Optional) DevOps Measurement
+## (Advanced) DevOps Measurement
 
 ![alt-text-here](assets/apm_role_devops.png)
 
@@ -300,6 +338,6 @@ How to implement visual management
 2. Discussion: Is there any issue in your current project can be resolved by enabling more DevOps capability?
 
 <!-- ------------------------ -->
-## (Optional) DevSecOps
+## (Advanced) DevSecOps
 
 WIP
