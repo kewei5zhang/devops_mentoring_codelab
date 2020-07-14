@@ -19,7 +19,7 @@
 #mainToolbar {
   display: flex;
   align-items: center;
-  height: $keyline * 8;
+  height: $keyline * 12;
   background-color: $blueGrey700;
   color: #fff;
   padding: $keyline * 2;
@@ -35,8 +35,10 @@
 
   .logo-icon {
     margin-right: $keyline * 2;
-    width: 30px;
-    height: 24px;
+    // width: 30px;
+    // height: 24px;
+    width: 80px;
+    height: 80px;
   }
 
   .logo-devs {

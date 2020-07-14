@@ -11,13 +11,14 @@ authors: Kewei Zhang
 ## Overview 
 
 <!-- ------------------------ -->
+## What Is Monolithic Architecture
+A monolith is a single application that holds a full collection of functionality, serving as one place to store everything. Architecturally, it looks like this:
+![alt-text-here](assets/monolith.png)
+<!-- ------------------------ -->
 ## What are Microservices
 
 <!-- ------------------------ -->
 ## What are Containers
-
-<!-- ------------------------ -->
-## What Is Monolithic Architecture
 
 <!-- ------------------------ -->
 ## What Is Microservices Architecture?

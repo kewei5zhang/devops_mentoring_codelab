@@ -3,13 +3,13 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-07-12T09:52:04+10:00",
-  "id": "microservice101",
+  "updated": "2020-07-12T09:42:09+10:00",
+  "id": "career_dev",
   "duration": 0,
-  "title": "MicroService 101",
+  "title": "Career Development",
   "authors": "Kewei Zhang",
-  "summary": "MicroService 101",
-  "source": "microservices101.md",
+  "summary": "Career Development",
+  "source": "career-development.md",
   "theme": "",
   "status": [
     "published"
@@ -18,7 +18,7 @@
     "sample"
   ],
   "tags": [
-    "devops"
+    "career_dev"
   ],
-  "url": "microservice101"
+  "url": "career_dev"
 }

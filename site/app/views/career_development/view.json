@@ -1,0 +1,10 @@
+{
+  "title": "Career Development",
+  "description": "Career Development is a series of knowledge shareing and customized sessions to help students better understand roles and responsibilities in IT industry and help shape student find career directions that best suit them",
+  "logoUrl": "/career_development/career_dev.jpg",
+  "tags": ["career_dev"],
+  "exclude": [
+    ".*-about$",
+    "^lang-.*"
+  ]
+}
