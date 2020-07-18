@@ -3,13 +3,13 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-07-18T10:35:57+10:00",
-  "id": "career_dev",
+  "updated": "2020-07-18T19:04:03+10:00",
+  "id": "ba_career_dev",
   "duration": 0,
-  "title": "Career Development",
+  "title": "Business Analyst Career Development",
   "authors": "Kewei Zhang",
-  "summary": "Career Development",
-  "source": "career-development.md",
+  "summary": "Business Analyst Career Development",
+  "source": "career-development-ba.md",
   "theme": "",
   "status": [
     "published"
@@ -20,5 +20,5 @@
   "tags": [
     "career_dev"
   ],
-  "url": "career_dev"
+  "url": "ba_career_dev"
 }
